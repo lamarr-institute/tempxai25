@@ -81,3 +81,23 @@ In case of many submissions, a poster session may also be included.
 
 # Program Committee (tentative)
 - To be announced
+
+# Sponsors
+<table style="width: 100%; display: grid">
+    <tr>
+        <td style="text-align: center; border: none;">
+            <img src="assets/images/lamarr.png" alt="Image 5" style="width: 100%; max-width: 700px; height: auto;">
+        </td>
+        <td style="border: none;">
+        This workshop is supported by the Federal Ministry of Education and Research of Germany and the state of North Rhine-Westphalia as part of the Lamarr Institute for Machine Learning and Artificial Intelligence.
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align: center; border: none;">
+            <img src="assets/images/nrw.png" alt="Image 5" style="width: 100%; max-width: 700px; height: auto;">
+        </td>
+        <td style="border: none;">
+        </td>
+    </tr>
+</table>
+
