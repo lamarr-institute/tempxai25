@@ -47,11 +47,37 @@ In case of many submissions, a poster session may also be included.
 - To be announced
 
 # Organizers
-- Zahraa S. Abdallah
-- Matthias Jakobs
-- Panagiotis Papapetrou
-- Amal Saadallah
-- George Tzagkarakis
+<table style="width: 100%; display: grid; grid-template-columns: repeat(auto-fill, minmax(500px, 1fr)); gap: 50px;">
+    <tr>
+        <td style="text-align: center; border: none;">
+            <img src="assets/images/zahraa.jpg" alt="Image 1" style="width: 100%; max-width: 300px; height: auto;">
+            <div class="orgname">Zahraa S. Abdallah</div>
+            <div class="orguni">University of Bristol</div>
+        </td>
+        <td style="text-align: center; border: none;">
+            <img src="assets/images/matthias.jpg" alt="Image 2" style="width: 100%; max-width: 300px; height: auto;">
+            <div class="orgname">Matthias Jakobs</div>
+            <div class="orguni">TU Dortmund University</div>
+        </td>
+        <td style="text-align: center; border: none;">
+            <img src="assets/images/panos.jpg" alt="Image 3" style="width: 100%; max-width: 300px; height: auto;">
+            <div class="orgname">Panagiotis Papapetrou</div>
+            <div class="orguni">Stockholm University</div>
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align: center; border: none;">
+            <img src="assets/images/amal.jpg" alt="Image 4" style="width: 100%; max-width: 300px; height: auto;">
+            <div class="orgname">Amal Saadallah</div>
+            <div class="orguni">TU Dortmund University</div>
+        </td>
+        <td style="text-align: center; border: none;">
+            <img src="assets/images/george.jpg" alt="Image 5" style="width: 100%; max-width: 300px; height: auto;">
+            <div class="orgname">George Tzagkarakis</div>
+            <div class="orguni">FORTH-ICS</div>
+        </td>
+    </tr>
+</table>
 
 # Program Committee (tentative)
 - To be announced

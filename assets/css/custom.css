@@ -33,3 +33,15 @@ p, a {
 ul li::marker { 
     color: #e82e82;
 }
+
+/* Format organizer names */
+.orgname  {
+    font-family: 'Work Sans', sans-serif;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.orguni {
+    font-family: 'Work Sans', sans-serif;
+    color: #e82e82;
+}
