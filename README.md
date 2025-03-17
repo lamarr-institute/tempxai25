@@ -33,18 +33,18 @@ We also welcome submissions of position papers (2 pages) presenting novel ideas,
 At least one author of each accepted paper must be registered to the conference and attend to the workshop.
 
 # Important dates
-The workshops will be published as in a joint post-workshop proceeding published by Springer Communications in Computer and Information Science. Please format your papers according to the one-column Springer LNCS template ![](https://ecmlpkdd-storage.s3.eu-central-1.amazonaws.com/2025/ECML_PKDD_2025_Author_Kit.zip)
+The workshops will be published as in a joint post-workshop proceeding published by Springer Communications in Computer and Information Science. Please format your papers according to the one-column Springer LNCS template [found here](https://ecmlpkdd-storage.s3.eu-central-1.amazonaws.com/2025/ECML_PKDD_2025_Author_Kit.zip).
 
 - **Paper Submission**: Saturday, June 14, 2025
 - **Author Notification**: Monday, July 14, 2025
-- **Camera Ready**: To be anounced.
-- **Workshop**: To be anounced.
+- **Camera Ready**: To be announced.
+- **Workshop**: To be announced.
 
 The workshop will comprise paper presentations, discussions, and invited talks.
 In case of many submissions, a poster session may also be included.
 
 # Keynote speaker
-- To be anounced
+- To be announced
 
 # Organizers
 - Zahraa S. Abdallah
@@ -54,4 +54,4 @@ In case of many submissions, a poster session may also be included.
 - George Tzagkarakis
 
 # Program Committee (tentative)
-- To be anounced
+- To be announced
