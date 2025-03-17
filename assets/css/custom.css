@@ -1,0 +1,35 @@
+/* Set global dark background */
+body {
+    background-color: #0C122B; /* Dark background */
+    color: #FFFFFF; /* Light text color */
+    font-family: 'Work Sans', sans-serif;
+}
+
+/* Customize the Header with a Dark Gradient */
+.page-header {
+    background: linear-gradient(155deg, #e82e82, #59bdf7); /* Blue gradient */
+}
+
+/* Ensure Links Are Visible */
+a {
+    color: #66ccff; /* Light blue links */
+}
+
+a:hover {
+    color: #ffcc00; /* Yellow on hover */
+}
+
+.main-content h1 {
+    color: #009ee3;
+    font-weight: bold;
+    font-family: 'Work Sans', sans-serif;
+}
+
+p, a {
+    font-family: 'Work Sans', sans-serif;
+}
+
+/* Color dots of UL */ 
+ul li::marker { 
+    color: #e82e82;
+}
