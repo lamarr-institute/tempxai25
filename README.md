@@ -30,11 +30,10 @@ The XAI for time series and data streams workshop welcomes papers that cover, bu
 We welcome submissions of regular papers (max. 8-16 pages) and extended abstracts (up to 2-4 pages). Each paper will be double-blind peer-reviewed and, upon selection, be presented and discussed at the workshop. 
 For extended abstracts, works-in-progress or industrial experiences are welcome. 
 We also welcome submissions of position papers (2 pages) presenting novel ideas, perspectives, or challenges in explainable AI for time series and data streams. 
-At least one author of each accepted paper must be registered to the conference and attend to the workshop.
-
-# Important dates
+**At least one author of each accepted paper must be registered to the conference and attend to the workshop.**
 The workshops will be published as in a joint post-workshop proceeding published by Springer Communications in Computer and Information Science. Please format your papers according to the one-column Springer LNCS template [found here](https://ecmlpkdd-storage.s3.eu-central-1.amazonaws.com/2025/ECML_PKDD_2025_Author_Kit.zip).
 
+# Important dates
 - **Paper Submission**: Saturday, June 14, 2025
 - **Author Notification**: Monday, July 14, 2025
 - **Camera Ready**: To be announced.
