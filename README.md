@@ -45,22 +45,22 @@ In case of many submissions, a poster session may also be included.
 # Keynote speaker
 <table>
     <tr>
-        <td style="max-width: 150px">
+        <td style="max-width: 150px; border: none;">
         <center>
             <img src="assets/images/profntoutsi.jpeg">
         </center>
         </td>
-        <td>
+        <td style="border: none;">
             <b>Prof. Eirini Ntoutsi</b> is a Full Professor at University of the Bundeswehr Munich, specializing in time-series data and explainable AI. She holds a Ph.D. in Data Mining from the University of Piraeus/Greece and has held academic positions at institutions such as Leibniz University Hannover and Freie Universität Berlin.
             Her work focuses on developing intelligent algorithms that adapt to non-stationary data and data streams, emphasizing responsible AI practices including fairness-aware machine learning. 
             Prof. Ntoutsi also explores generative AI for creating realistic data and artifacts, aiming to foster positive societal impact through her research.
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="border: none;">
             <b>Dr. Paul Boniol</b> is a researcher at Inria and a member of the VALDA project-team, focusing on time-series data analytics and machine learning. He completed his Ph.D. at the University of Paris and EDF R&D, with research experience at institutions such as ENS Paris-Saclay and the University of Chicago. His work specializes in large-scale time-series management, anomaly detection, and  machine learning for time-series analysis, aiming to develop efficient and scalable solutions for massive data streams.
         </td>
-        <td style="max-width: 150px">
+        <td style="max-width: 150px; border: none;">
             <center>
             <img src="assets/images/paulboniol.jpeg" height=200px>
             </center>
