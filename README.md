@@ -43,7 +43,7 @@ The workshop will comprise paper presentations, discussions, and invited talks.
 In case of many submissions, a poster session may also be included.
 
 # Keynote speaker
-<table>
+<!-- <table>
     <tr>
         <td style="max-width: 150px; border: none;">
         <center>
@@ -66,7 +66,7 @@ In case of many submissions, a poster session may also be included.
             </center>
         </td>
     </tr>
-</table>
+</table> -->
 
 
 # Organizers
