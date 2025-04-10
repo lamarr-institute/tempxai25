@@ -43,6 +43,7 @@ The workshop will comprise paper presentations, discussions, and invited talks.
 In case of many submissions, a poster session may also be included.
 
 # Keynote speaker
+To be announced
 <!-- <table>
     <tr>
         <td style="max-width: 150px; border: none;">
@@ -107,6 +108,8 @@ In case of many submissions, a poster session may also be included.
 - Sebastian Buschjäger (TU Dortmund University)
 - Chrysostomos Zeginis (ICS-FORTH)
 - Grigoris Tsagkatakis (ICS-FORTH)
+- Udo Schlegel (LMU Munich)
+- Maja Schneider (TUM Munich)
 - more to be announced  
 
 # Sponsors
