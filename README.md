@@ -37,7 +37,7 @@ The workshops will be published as in a joint post-workshop proceeding published
 - **Paper Submission**: Saturday, June 14, 2025
 - **Author Notification**: Monday, July 14, 2025
 - **Camera Ready**: To be announced.
-- **Workshop**: To be announced.
+- **Workshop**: Friday, September 19, 2025
 
 The workshop will comprise paper presentations, discussions, and invited talks.
 In case of many submissions, a poster session may also be included.
