@@ -34,7 +34,7 @@ We also welcome submissions of position papers (2 pages) presenting novel ideas,
 The workshops will be published as in a joint post-workshop proceeding published by Springer Communications in Computer and Information Science. Please format your papers according to the one-column Springer LNCS template [found here](https://ecmlpkdd-storage.s3.eu-central-1.amazonaws.com/2025/ECML_PKDD_2025_Author_Kit.zip).
 
 # Important dates
-- **Paper Submission**: Saturday, June 14, 2025
+- **Paper Submission**: ~~Saturday, June 14, 2025~~ Thursday, June 19th, 2025
 - **Author Notification**: Monday, July 14, 2025
 - **Camera Ready**: To be announced.
 - **Workshop**: Friday, September 19, 2025
