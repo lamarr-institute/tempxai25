@@ -42,8 +42,11 @@ The workshops will be published as in a joint post-workshop proceeding published
 The workshop will comprise paper presentations, discussions, and invited talks.
 In case of many submissions, a poster session may also be included.
 
+# Program
+<img src="assets/images/schedule.png" style="max-width: 500px">
+
 # Keynote speaker
-To be announced
+More information soon
 <!-- <table>
     <tr>
         <td style="max-width: 150px; border: none;">
