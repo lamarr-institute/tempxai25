@@ -46,31 +46,29 @@ In case of many submissions, a poster session may also be included.
 <img src="assets/images/schedule.png" style="max-width: 500px">
 
 # Keynote speaker
-More information soon
-<!-- <table>
+<table>
     <tr>
-        <td style="max-width: 150px; border: none;">
+        <td style="max-width: 500px; border: none;">
         <center>
-            <img src="assets/images/profntoutsi.jpeg">
+            <img src="assets/images/georgiana.png">
         </center>
         </td>
-        <td style="border: none;">
-            <b>Prof. Eirini Ntoutsi</b> is a Full Professor at University of the Bundeswehr Munich, specializing in time-series data and explainable AI. She holds a Ph.D. in Data Mining from the University of Piraeus/Greece and has held academic positions at institutions such as Leibniz University Hannover and Freie Universität Berlin.
-            Her work focuses on developing intelligent algorithms that adapt to non-stationary data and data streams, emphasizing responsible AI practices including fairness-aware machine learning. 
-            Prof. Ntoutsi also explores generative AI for creating realistic data and artifacts, aiming to foster positive societal impact through her research.
-        </td>
+        <td style="max-width: 500px; border: none;">
+            <table border="0">
+                <tr>
+                    <td><b>Beyond Accuracy: The Dual Challenge of Effective and Explainable Time Series Classification</b></td>
+                </tr>
+                <tr>
+                    <td>Keynote by Dr. Georgiana Ifrim, School of Computer Science, University College Dublin</td>
+                </tr>
+                <tr>
+                    <td>
+                    This talk connects two important streams of research: the development of highly accurate time series classifiers  and the growing demand for explainable AI (XAI). I will begin by examining inherently interpretable models  like MrSEQL and MrSQM, which provide a foundation for trustworthy  time series analysis. From there, we will bridge the gap to post-hoc explainability, with a deep dive into attribution-based methods and their specific adaptations for time series data.  A key theme of this talk is the critical need for rigorous evaluation of our explanations. To that end, I will present recent frameworks, including AMEE and InterpretTime, that allow for the quantitative assessment of attribution methods. Throughout the talk, I will draw on compelling examples from the  domain of human movement tracking using wearable sensors  to illustrate how these techniques are being applied to better understand both our models and our data.</td>
+                </tr>
+            </table>
+         </td>
     </tr>
-    <tr>
-        <td style="border: none;">
-            <b>Dr. Paul Boniol</b> is a researcher at Inria and a member of the VALDA project-team, focusing on time-series data analytics and machine learning. He completed his Ph.D. at the University of Paris and EDF R&D, with research experience at institutions such as ENS Paris-Saclay and the University of Chicago. His work specializes in large-scale time-series management, anomaly detection, and  machine learning for time-series analysis, aiming to develop efficient and scalable solutions for massive data streams.
-        </td>
-        <td style="max-width: 150px; border: none;">
-            <center>
-            <img src="assets/images/paulboniol.jpeg" height=200px>
-            </center>
-        </td>
-    </tr>
-</table> -->
+</table>
 
 
 # Organizers
