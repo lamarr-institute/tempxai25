@@ -56,13 +56,13 @@ In case of many submissions, a poster session may also be included.
         <td style="max-width: 500px; border: none;">
             <table border="0">
                 <tr>
-                    <td><b>Beyond Accuracy: The Dual Challenge of Effective and Explainable Time Series Classification</b></td>
+                    <td style="border: none;"><b>Beyond Accuracy: The Dual Challenge of Effective and Explainable Time Series Classification</b></td>
                 </tr>
                 <tr>
-                    <td>Keynote by Dr. Georgiana Ifrim, School of Computer Science, University College Dublin</td>
+                    <td style="border: none;">Keynote by Dr. Georgiana Ifrim, School of Computer Science, University College Dublin</td>
                 </tr>
                 <tr>
-                    <td>
+                    <td style="border: none;">
                     This talk connects two important streams of research: the development of highly accurate time series classifiers  and the growing demand for explainable AI (XAI). I will begin by examining inherently interpretable models  like MrSEQL and MrSQM, which provide a foundation for trustworthy  time series analysis. From there, we will bridge the gap to post-hoc explainability, with a deep dive into attribution-based methods and their specific adaptations for time series data.  A key theme of this talk is the critical need for rigorous evaluation of our explanations. To that end, I will present recent frameworks, including AMEE and InterpretTime, that allow for the quantitative assessment of attribution methods. Throughout the talk, I will draw on compelling examples from the  domain of human movement tracking using wearable sensors  to illustrate how these techniques are being applied to better understand both our models and our data.</td>
                 </tr>
             </table>
