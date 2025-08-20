@@ -104,14 +104,16 @@ In case of many submissions, a poster session may also be included.
     </tr>
 </table>
 
-# Program Committee (tentative)
-- Raphael Fischer (TU Dortmund University)
+# Program Committee
+- André Artelt (Bielefeld University)
 - Sebastian Buschjäger (TU Dortmund University)
-- Chrysostomos Zeginis (ICS-FORTH)
-- Grigoris Tsagkatakis (ICS-FORTH)
+- Cèsar	Ferri (Universitat Politècnica València)
+- Raphael Fischer (TU Dortmund University)
 - Udo Schlegel (LMU Munich)
 - Maja Schneider (TUM Munich)
-- more to be announced  
+- Grigoris Tsagkatakis (ICS-FORTH)
+- Valerie Vaquet (CITEC, Bielefeld University)
+- Chrysostomos Zeginis (ICS-FORTH)
 
 # Sponsors
 <table style="width: 100%; display: grid">
